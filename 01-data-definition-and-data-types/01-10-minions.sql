@@ -8,7 +8,7 @@ CREATE TABLE minions (
 
 CREATE TABLE towns (
 	town_id INT AUTO_INCREMENT PRIMARY KEY,
- name VARCHAR(50)
+	name VARCHAR(50)
 );
 
 -- problem 2
