@@ -1,7 +1,7 @@
 -- problem 1
 
 CREATE TABLE minions (
-	id INT AUTO_INCREMENT PRIMARY KEY,
+    id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(30),
     age INT
 );
